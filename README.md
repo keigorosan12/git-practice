@@ -5,3 +5,5 @@ localban
 変更の変更
 
 nofast 変更
+
+conflictで変更
