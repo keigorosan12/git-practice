@@ -6,4 +6,4 @@ localban
 
 nofast 変更
 
-mainで変更
+conflictで変更
