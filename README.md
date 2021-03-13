@@ -4,4 +4,4 @@ localban
 
 変更の変更
 
-reomoteで変更2回目
+remote-conflictで変更
