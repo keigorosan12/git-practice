@@ -4,4 +4,4 @@ localban
 
 変更の変更
 
-remote-conflictで変更
+rebase-practiceで変更
