@@ -6,3 +6,4 @@ localban
 
 rebase-practiceで変更no2
 stash conflict 用
+stash練習(track済み)
