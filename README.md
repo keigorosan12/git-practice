@@ -5,3 +5,4 @@ localban
 変更の変更
 
 rebase-practiceで変更no2
+stash conflict 用
